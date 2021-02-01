@@ -1,5 +1,7 @@
 package EmployeeWage;
 
+// Employee Present Or Absent 
+
 public class Employee_Present_Absent {
 
 	public static void main(String[] args) 
